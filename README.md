@@ -5,7 +5,7 @@
 https://docs.spring.io/spring-ai/reference/index.html
  
 ### Langgraph
-Home for graph at http://localhost:8000/home.html
+Home for graph at http://localhost:8080/index.html
  
 ### RAG
 https://medium.com/@saphynogenov/spring-ai-simple-and-flexible-rag-with-advisor-strategies-b559bacd053b
@@ -39,4 +39,3 @@ While most of the inheritance is fine, it also inherits unwanted elements like `
 To prevent this, the project POM contains empty overrides for these elements.
 If you manually switch to a different parent and actually want the inheritance, you need to remove those overrides.
 
-riga nuova

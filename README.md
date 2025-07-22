@@ -5,7 +5,7 @@
 https://docs.spring.io/spring-ai/reference/index.html
  
 ### Langgraph
-Home for graph at http://localhost:8000/index.html
+Home for graph at http://localhost:8080/index.html
  
 ### RAG
 https://medium.com/@saphynogenov/spring-ai-simple-and-flexible-rag-with-advisor-strategies-b559bacd053b
